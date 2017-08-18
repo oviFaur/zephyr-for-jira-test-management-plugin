@@ -23,7 +23,7 @@ public class ServerInfo {
 	private static String URL_GET_PROJECTS = "{SERVER}/rest/api/2/project?expand";
 	private static String URL_GET_ISSUETYPES = "{SERVER}/rest/api/2/issuetype";
 	private static String URL_ZCLOUD_GET_GENERAL_INFO = "{SERVER}/public/rest/api/1.0/config/generalinformation";
-	private static String TEST_ISSSUETYPE_NAME = "Test";
+	private static String TEST_ISSSUETYPE_NAME = "Zephyr_Test";
 	private static long ISSUE_TYPE_ID = 10100L;
 	
 	private static String URL_GET_USERS = "{SERVER}/rest/api/2/user?username=";

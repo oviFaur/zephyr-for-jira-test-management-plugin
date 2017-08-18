@@ -22,7 +22,7 @@ import org.json.JSONObject;
 public class Project {
 
 	private static String URL_GET_PROJECTS = "{SERVER}/rest/api/2/issue/createmeta";
-	private static String TEST_ISSSUETYPE_NAME = "Test";
+	private static String TEST_ISSSUETYPE_NAME = "Zephyr_Test";
 
 	
 	
